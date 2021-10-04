@@ -1,0 +1,8 @@
+.Header{
+    height: 600px;
+    margin: 10px;
+   border-radius: 5px;
+    background-color: rgb(72, 107, 122);
+    text-align-last: center;
+    background-image: url('https://thumbs.dreamstime.com/b/book-title-spine-web-statistics-d-closeup-view-stack-books-78364153.jpg');
+}

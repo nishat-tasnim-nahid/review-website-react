@@ -1,0 +1,10 @@
+.Home{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+    
+}
+.Home img{
+    width: 300px;
+    height: 300px;
+}

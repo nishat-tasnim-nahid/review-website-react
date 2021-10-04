@@ -1,0 +1,8 @@
+.About{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: whitesmoke;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,11 @@
+.Navbar{
+    text-align: left;
+    background-color: darkslategray;
+    padding: 10px;
+}
+.link{
+    text-decoration: none;
+    color: ghostwhite;
+    padding: 10px;
+    font-size: larger;
+}
